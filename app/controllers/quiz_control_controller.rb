@@ -1,0 +1,2 @@
+class QuizControlController < ApplicationController
+end
